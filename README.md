@@ -7,7 +7,7 @@ https://github.com/zx0r/VainakhTV/blob/main/channel-art/banners/current/chechen-
 
 # Картина
 # Изображение вашего профиля появится там, где представлен ваш канал на YouTube, например рядом с вашими видео и комментариями.
-https://github.com/zx0r/VainakhTV/blob/main/.github/assets/screenshot.jpg
+https://github.com/zx0r/VainakhTV/blob/main/channel-art/profile-pictures/current/boisghar.jpg
 
 # Имя
 # Выберите название канала, которое представляет вас и ваш контент.
